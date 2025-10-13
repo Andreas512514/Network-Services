@@ -30,4 +30,7 @@ Syntax: smbclient //[IP]/[SHARE] -U [USERNAME] -p [PORT]
                                                                                                                                                      
 ![smbclient picture](https://github.com/Andreas512514/Network-Services/blob/main/Screenshot%202025-10-14%20001751.png)
 
-As shown in the picture, you can type the help command to see what commands you can use.
+As shown in the picture, you can type the help command to see what commands you can use.<br><br><br>
+
+
+If you want practical exercises, follow this [link](https://tryhackme.com/room/networkservices)
