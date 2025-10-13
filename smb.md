@@ -6,7 +6,7 @@ SMB - Server Message Block Protocol - is a client-server communication protocol 
 
 ![](https://github.com/Andreas512514/Network-Services/blob/main/Screenshot%202025-10-13%20233219.png)
 
-Here in the picture we see that **smb** is running on ports 139 and 445.<br>
+Here in the picture we see that **smb** runs on TCP 139 (NetBIOS) and 445 (Direct SMB).<br>
 Samba, an open source server that supports the SMB protocol, was released for Unix systems.<br><br><br>
 
 
