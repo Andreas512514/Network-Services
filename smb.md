@@ -24,6 +24,7 @@ For the example, we have used the enum4linux -S [ip] command in this image.
 
 
 # SMBClient
-Because we're trying to access an SMB share, we need a client to access resources on servers. We will be using SMBClient because it's part of the default samba suite.<br>
+Because we're trying to access an SMB share, we need a client to access resources on servers. We will be using SMBClient because it's part of the default samba suite.<br><br>
+
 Syntax: smbclient //[IP]/[SHARE] -U [USERNAME] -p [PORT]
                                                                                                                                                      
