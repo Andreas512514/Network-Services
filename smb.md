@@ -16,3 +16,4 @@ Enumeration is the process of gathering information on a target in order to find
 Enumeration can be used to gather usernames, passwords, network information, hostnames, application data, services, or any other information that may be valuable to an attacker.
 
 The syntax of Enum4Linux is nice and simple: "enum4linux [options] ip"
+ ![enum4linux TAG picture](https://github.com/Andreas512514/Network-Services/blob/main/Screenshot%202025-10-13%20234504.png)
