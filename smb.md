@@ -29,3 +29,5 @@ Because we're trying to access an SMB share, we need a client to access resource
 Syntax: smbclient //[IP]/[SHARE] -U [USERNAME] -p [PORT]
                                                                                                                                                      
 ![smbclient picture](https://github.com/Andreas512514/Network-Services/blob/main/Screenshot%202025-10-14%20001751.png)
+
+As shown in the picture, you can type the help command to see what commands you can use.
