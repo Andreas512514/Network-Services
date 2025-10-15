@@ -35,7 +35,7 @@ As shown in the picture, you can type the help command to see what commands you 
 **For educational use only. Do not use on systmes you do not own or have permission to test.**<br><br><br>
 
 
-If you want practical exercises, follow this [link](https://tryhackme.com/room/networkservices)
+If you want practical exercises, follow this [link](https://tryhackme.com/room/networkservices)<br><br><br>
 
 # Ftp
 ## What is ftp?
