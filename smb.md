@@ -32,10 +32,7 @@ Syntax: smbclient //[IP]/[SHARE] -U [USERNAME] -p [PORT]
 
 As shown in the picture, you can type the help command to see what commands you can use.<br><br><br>
 
-**For educational use only. Do not use on systmes you do not own or have permission to test.**<br><br><br>
 
-
-If you want practical exercises, follow this [link](https://tryhackme.com/room/networkservices)<br><br><br>
 
 # Ftp
 ## What is ftp?
@@ -61,6 +58,12 @@ The telnet client will establish a connection with the server. The client will t
 
 ![telnet port](https://github.com/Andreas512514/Network-Services/blob/main/Screenshot%202025-10-15%20231106.png)
 
-As you can see in the picture here, telnet is on port 23.s<br>
+As you can see in the picture here, telnet is on port 23.<br>
 
-![](https://github.com/Andreas512514/Network-Services/blob/main/Screenshot%202025-10-15%20231147.png)
+![](https://github.com/Andreas512514/Network-Services/blob/main/Screenshot%202025-10-15%20231147.png)<br><br><br>
+
+
+**For educational use only. Do not use on systmes you do not own or have permission to test.**<br><br><br>
+
+
+If you want practical exercises, follow this [link](https://tryhackme.com/room/networkservices)
