@@ -61,4 +61,6 @@ The telnet client will establish a connection with the server. The client will t
 
 ![telnet port](https://github.com/Andreas512514/Network-Services/blob/main/Screenshot%202025-10-15%20231106.png)
 
-As you can see in the picture here, telnet is on port 23.s
+As you can see in the picture here, telnet is on port 23.s<br>
+
+![](https://github.com/Andreas512514/Network-Services/blob/main/Screenshot%202025-10-15%20231147.png)
