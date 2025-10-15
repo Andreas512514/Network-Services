@@ -6,4 +6,7 @@ File Transfer Protocol (FTP) is, as the name suggests , a protocol used to allow
 
 ![picture of ftp](https://github.com/Andreas512514/Network-Services/blob/main/Screenshot%202025-10-15%20205914.png)
 
-As you can see in the picture, ftp is running on port 21.
+As you can see in the picture, ftp is running on port 21.<br><br>
+
+It can be used with the **ftp [ip]** command
+
