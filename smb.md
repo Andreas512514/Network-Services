@@ -36,3 +36,23 @@ As shown in the picture, you can type the help command to see what commands you 
 
 
 If you want practical exercises, follow this [link](https://tryhackme.com/room/networkservices)
+
+# Ftp
+## What is ftp?
+
+File Transfer Protocol (FTP) is, as the name suggests , a protocol used to allow remote transfer of files over a network. It uses a client-server model to do this, and- as we'll come on to later- relays commands and data in a very efficient way.<br><br>
+
+
+![picture of ftp](https://github.com/Andreas512514/Network-Services/blob/main/Screenshot%202025-10-15%20205914.png)
+
+As you can see in the picture, ftp is running on port 21.<br><br>
+
+It can be used with the **ftp [ip]** command
+
+![](https://github.com/Andreas512514/Network-Services/blob/main/Screenshot%202025-10-15%20210614.png)<br><br><br>
+
+
+**For educational use only. Do not use on systmes you do not own or have permission to test.**<br><br><br>
+
+
+If you want practical exercises, follow this [link](https://tryhackme.com/room/networkservices)
