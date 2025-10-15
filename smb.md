@@ -52,7 +52,9 @@ It can be used with the **ftp [ip]** command
 ![](https://github.com/Andreas512514/Network-Services/blob/main/Screenshot%202025-10-15%20210614.png)<br><br><br>
 
 
-**For educational use only. Do not use on systmes you do not own or have permission to test.**<br><br><br>
+# Telnet
+## What is telnet
 
+Telnet is an application protocol which allows you, with the use of a telnet client, to connect to and execute commands on a remote machine that's hosting a telnet server.
 
-If you want practical exercises, follow this [link](https://tryhackme.com/room/networkservices)
+The telnet client will establish a connection with the server. The client will then become a virtual terminal - allowing you to interact with the remote host.
